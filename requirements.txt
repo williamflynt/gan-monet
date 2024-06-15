@@ -1,11 +1,11 @@
+h5py
 jupyter
-pandas
+keras==3.*
+matplotlib
 numpy
 opencv-python
-matplotlib
+optuna
+pandas
 scikit-learn
-keras==3.*
 scipy
-torch
-torchvision
-h5py
+tensorflow==2.16.*
